@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como Full-Stack
-- 🌱 Estudando React js
+- 🌱 Aprimorando meus conhecimentos em Cibersecurity no momento
 - 📫 Contate-me no email: joaoscunha123@gmail.com
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
