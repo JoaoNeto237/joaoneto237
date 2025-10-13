@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Cunha
 
 
-- 🔭 Hoje trabalho como Full-Stack freelancer mas estou em busca de uma oportunidade efetiva
+- 🔭 Desenvolvedor Full-Stack freelancer e Trainee em IA
 - 🌱 Aprimorando meus conhecimentos em JavaScript|TypeScript no momento
 - 📫 Contate-me no email: joaoscunha123@gmail.com
 <div style="display: inline_block"><br>
